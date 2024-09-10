@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriel Loroña! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://imgur.com/oOEQ1ku)
 
 ## About Me 🚀
 
