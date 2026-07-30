@@ -4,9 +4,9 @@
 
 ## About Me 🚀
 
-Gabriel Loroña is a Fullstack Developer currently working at Comextweb S.A, a company focused on providing software services to businesses engaged in external commerce. Throughout his career, Gabriel has gained extensive knowledge and technical skills that have enhanced his programming style, problem-solving abilities, requirements analysis, and software design. He has experience working both independently and within multidisciplinary teams, applying agile methodologies to develop reliable and user-friendly software. Gabriel is passionate about developing software for management and designing user experiences, with a goal to create interactive and intuitive software accessible to everyone, aiming to reduce the digital divide that has emerged in recent years.
+Gabriel Loroña is a Infrastructure Engineer currently working at Thoughtworks, a global consulting company focused on providing software services to businesses all around the world. Throughout his career, Gabriel has gained extensive knowledge and technical skills that have enhanced his programming style, problem-solving abilities, requirements analysis, and software design. He has experience working both independently and within multidisciplinary teams, applying agile methodologies to develop reliable and user-friendly software. Gabriel is passionate about developing software for management and designing user experiences, with a goal to create interactive and intuitive software accessible to everyone, aiming to reduce the digital divide that has emerged in recent years.
 
-- 🌱 Currently learning: Advanced Flutter Skills
+- 🌱 Currently learning: Kubernetes (CKA)
 - 🌍 Languages: English and Spanish
 - 📫 How to reach me: Email - glorona@espol.edu.ec
 - ⚡ Fun fact: I love to cook and code at the same time :D
